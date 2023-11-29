@@ -1,0 +1,4 @@
+/* test1.txt */  
+
+[Y] ::= \f.((\x.f(xx))(\x.f(xx)));
+[fact] :=\f.\x.(([iszero]x)[1]([mult]x(f([pred]x))));
