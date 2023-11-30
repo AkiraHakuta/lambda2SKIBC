@@ -51,7 +51,7 @@ exmaple
 
 ### Running the tests 
 
-unzip [lambda2SKIBC-win64.zip](https://github.com/AkiraHakuta/lambda2SKIBC/releases/tag/untagged-ed9758e667939eb5ca74)  
+unzip [lambda2SKIBC-win64.zip](https://github.com/AkiraHakuta/lambda2SKIBC/releases)  
 
 
 Open `Dos Command Prompt`  
